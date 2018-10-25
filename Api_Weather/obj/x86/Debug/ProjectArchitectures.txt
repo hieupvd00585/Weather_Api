@@ -1,0 +1,1 @@
+D:\Information_Technogory\Api_Weather\Api_Weather\Api_Weather.csproj;x86
